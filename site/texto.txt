@@ -1,0 +1,107 @@
+TRABALHO DE BIOLOGIA 3°TRIMESTRE
+
+COLÉGIO ESTADUAL MENDES GONÇALVES.
+ALUNOS: ELIANA CRISTINA, GRACE YASMIN, HUGO GABRIEL, BRUNO GABRIEL, FELIPE BATISTA.
+Prof.ª: TALITA CANTU.
+DATA: 11/10/2022.
+2°ANO INFORMÁTICA.
+
+REINO PLANTAE
+
+O Reino Plantae, também chamado de Metaphyta, é composto por todos os organismos conhecidos como plantas ou vegetais. Estima-se que seja o primeiro grupo de habitantes pluricelulares a colonizar o ambiente terrestre.
+As plantas formam a base da cadeia alimentar. Elas são produtoras de matéria orgânica e
+alimentam os seres heterótrofos, ou seja, representam o grupo responsável pela nutrição de diversos
+organismos consumidores. Isso indica que sem a existência desses seres autótrofos, a vida na terra
+seria impossível.
+
+Características gerais do Reino Vegetal são:
+-São todos eucariontes, ou seja, apresentam núcleo bem definido e delimitado pela carioteca (tipo de membrana) e possuem organelas membranosas.
+-Todos são autótrofos, ou seja, são capazes de produzir sua própria matéria orgânica como fonte de energia. 
+-Além das organelas comuns a todos os seres vivos, possuem duas especiais: vacúolos e cloroplastos (onde ficam as clorofilas A e B).
+-Suas células são revestidas reforçadamente com uma parede celular de celulose.
+-Estão presentes em praticamente todos os biomas terrestres, a maioria em terra firme mas existem espécies aquáticas.
+-Por meio da luz solar, realizam o processo da fotossíntese e, por esse motivo, são chamados
+de seres fotossintetizantes.
+
+Estruturas Macroscópicas Primitivas
+Se tomarmos como exemplo os musgos, veremos que eles apresentam rizóides em vez de raízes, caulóide em vez de caule e filóides em vez de folhas. Supõe-se que essas sejam as estruturas iniciais que permitiram o desenvolvimento das demais:
+
+Estruturas Macroscópicas Evoluídas
+Raíz
+Localizada geralmente no interior do solo, sua função principal é a absorção de água e minerais presentes no solo, para serem utilizados na fotossíntese. 
+Caule
+Possui função estrutural e de suporte, dando resistência ao vegetal. Dependendo do vegetal o caule pode sofrer alguma variação: maior, menor, ramificado, único, etc. 
+Folhas
+As folhas são órgãos localizados nas extremidades do caule. Juntos, formam a parte aérea do vegetal. Sua função é promover as trocas gasosas entre o vegetal e o meio externo e realizar a fotossíntese.
+Flores
+Presentes apenas em algumas plantas são as estruturas reprodutivas que contém órgãos reprodutores e gametas. Quando fecundados, formam as sementes. 
+Frutos
+Os frutos também não estão presentes em todas as plantas, mas descendem das flores em que houve a fecundação, gerando as sementes e a diferenciação do ovário. A função é sempre a de proteger as sementes e promover a sua dispersão.
+
+Curiosidades:
+• O Reino Vegetal é composto de aproximadamente 400 mil espécies conhecidas, sendo,
+portanto, um dos maiores grupos de seres vivos.
+• Por serem organismos autossuficientes (autótrofos), as plantas foram os primeiros seres
+habitantes do planeta Terra.
+-É monofilético, ou seja, todos os seus integrantes descendem de um ancestral comum.
+
+Classificação do Reino Vegetal:
+O Reino Vegetal é composto de plantas vasculares (pteridófitas, gimnospermas e
+angiospermas) que possuem vasos condutores de seiva, e plantas avasculares (briófitas), destituídas
+desses vasos.
+
+BRIÓFITAS
+habitat                   === ambientes úmidos, próximos a locais de água-doce e com sombras
+ciclo de vida             === alternância de gerações
+porte                     === pequeno porte (média de 10cm)
+vasos condutores de seiva === Não
+flor                      === Não
+frutos                    === Não
+sementes                  === Não
+Filos                     === Marchantiophyta, Bryophyta e Anthocerophyta.
+****exemplos              === Hepáticas, antóceros e os musgos
+
+PTERIDÓFITAS
+habitat                   === lugares escuros e úmidos. Sendo assim, é fácil encontrá-las na Mata Atlântica e na Floresta Amazônica
+ciclo de vida             === alternância de gerações
+porte                     === grande porte (superior ás briofitas)
+vasos condutores de seiva === Sim
+flor                      === Não
+frutos                    === Não
+sementes                  === Não
+Filos                     === Lycopodiophyta e Monilophyta.
+****exemplos              === Samambaias e avencas
+
+ANGIOSPERMAS
+habitat                   === ocorrem nos mais variados tipos de habitats, desde ambientes aquáticos até áridos
+ciclo de vida             === alternância de gerações
+porte                     === extremamente variado entre 1mm e 100m
+vasos condutores de seiva === Sim
+flor                      === Sim
+frutos                    === Sim
+sementes                  === Sim
+Filos                     === Anthophyt
+****exemplos              === a roseira, a mangueira, a grama, os lírios, as orquídeas, o coqueiro, entre várias outras.
+
+GMINOSPERMAS
+habitat                   === ambientes de clima frio ou temperado
+ciclo de vida             === alternância de gerações
+porte                     === A maioria das espécies são altas, podendo atingir mais de 18 metros.
+vasos condutores de seiva === Sim
+flor                      === Não
+frutos                    === Não
+sementes                  === Sikm
+Filos                     === Coniferophyta, Cycadophyta, Gnetophyta e Ginkgophyta
+****exemplos              === araucárias, cedros, cicas, ciprestes, pinheiros e sequóias. Pinheiro-do-paraná.
+
+
+Referências:
+https://www.todamateria.com.br/reino-vegetal/
+https://mundoeducacao.uol.com.br/biologia/briofitas.htm
+https://mundoeducacao.uol.com.br/biologia/pteridofitas.htm
+https://mundoeducacao.uol.com.br/biologia/angiospermas.htm
+https://brasilescola.uol.com.br/biologia/angiospermas.htm
+https://noticiasconcursos.com.br/biologia-definicao-de-gimnosperma-ciclo-de-vida-e-reproducao/
+https://mundoeducacao.uol.com.br/biologia/gimnospermas.htm
+https://brasilescola.uol.com.br/biologia/gimnospermas.htm
+https://beduka.com/blog/materias/biologia/reino-plantae/
