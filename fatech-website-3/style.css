@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 22px;
+    overflow-x: hidden;
+}
+
+section{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+header{
+    background-color: #1a1a1a;
+    height: 120px;
+    padding: 10px;
+}
+
+header nav a {
+    color: #fff;
+    text-decoration: none;
+}
+
+header .logo{
+    float: left;
+}
+
+header nav ul li{
+    float: left;
+    margin: 20px;
+}
+
+section{
+    margin: 0 auto;
+    width: 1200px;
+}
+
+header .logo img{
+    width: 250px;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+
+header nav{
+    padding-top: 22px;
+}
+
+.background, .background img{
+    display: block;
+    width: 99vw;
+    height: 80vh;
+    content:"";
+    background-position: top center;
+    background-repeat: no-repeat;
+    z-index: -99;
+    background-attachment: fixed;
+} 
+
+.slider{
+    position: relative;
+}
+
+.texto-dir, .text-esq{
+    position: absolute;
+    top: 167px;
+    color: white;
+    width: 300px;
+    left: 10%;
+    text-align: center;
+    font-size: 17px;
+}
+
+.texto-dir h1{
+    font-size: 100px;
+    font-weight: bold;
+}
+
+.text-esq{
+    right: 10%;
+    left: auto;
+    line-height: 25px;
+    padding-top: 25px;
+}
+
+.text-esq b{
+    font-weight: 900;
+}
+
+.texto-dir h1{
+    font-size: 100px;
+    font-weight: 900;
+}
+
+.sobre .img,.sobre .titulo, .sobre p{
+    float: left;
+}
+.sobre p{
+    width: 80%;
+}
+.sobre .img{
+    width: 20%;
+}
+.sobre .img img{
+    width: 100%;
+}
